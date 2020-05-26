@@ -16,8 +16,6 @@ ScriptedImporter:
     400008: alembic_test/alembic_test/Camera_001/Camera_001Shape/Transform
     400010: alembic_test/alembic_test/Grid/Transform
     400012: alembic_test/alembic_test/Grid/GridShape/Transform
-    2000000: alembic_test/alembic_test/Camera/CameraShape/Camera
-    2000002: alembic_test/alembic_test/Camera_001/Camera_001Shape/Camera
     2100000: Default Material
     2300000: alembic_test/alembic_test/Grid/GridShape/MeshRenderer
     3300000: alembic_test/alembic_test/Grid/GridShape/MeshFilter
@@ -45,7 +43,7 @@ ScriptedImporter:
     importLinePolygon: 1
     importTrianglePolygon: 1
     importXform: 1
-    importCameras: 1
+    importCameras: 0
     importMeshes: 1
     importPoints: 1
     importVisibility: 1
