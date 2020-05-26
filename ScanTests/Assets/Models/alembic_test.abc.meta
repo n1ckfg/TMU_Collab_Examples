@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 5b33b82642b9a4d4989c09b854d79a8a
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: alembic_test/alembic_test
+    100002: alembic_test/alembic_test/Camera
+    100004: alembic_test/alembic_test/Camera/CameraShape
+    100006: alembic_test/alembic_test/Camera_001
+    100008: alembic_test/alembic_test/Camera_001/Camera_001Shape
+    100010: alembic_test/alembic_test/Grid
+    100012: alembic_test/alembic_test/Grid/GridShape
+    400000: alembic_test/alembic_test/Transform
+    400002: alembic_test/alembic_test/Camera/Transform
+    400004: alembic_test/alembic_test/Camera/CameraShape/Transform
+    400006: alembic_test/alembic_test/Camera_001/Transform
+    400008: alembic_test/alembic_test/Camera_001/Camera_001Shape/Transform
+    400010: alembic_test/alembic_test/Grid/Transform
+    400012: alembic_test/alembic_test/Grid/GridShape/Transform
+    2000000: alembic_test/alembic_test/Camera/CameraShape/Camera
+    2000002: alembic_test/alembic_test/Camera_001/Camera_001Shape/Camera
+    2100000: Default Material
+    2300000: alembic_test/alembic_test/Grid/GridShape/MeshRenderer
+    3300000: alembic_test/alembic_test/Grid/GridShape/MeshFilter
+    4300000: /Grid/GridShape
+    7400000: Default Animation
+    7400002: alembic_test_Frames
+    11400000: alembic_test/alembic_test/MonoBehaviour-UTJ.Alembic.AlembicStreamPlayer
+    11400002: alembic_test_ABCDesc
+    100100000: alembic_test
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    scaleFactor: 1
+    swapHandedness: 1
+    flipFaces: 0
+    turnQuadEdges: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 1
+    importVisibility: 1
+  abcStartTime: 0.041666666666666664
+  abcEndTime: 0.4166666666666667
+  startTime: 0.041666666666666664
+  endTime: 0.4166666666666667
+  importWarning: 
+  varyingTopologyMeshNames: []
+  splittingMeshNames: []
